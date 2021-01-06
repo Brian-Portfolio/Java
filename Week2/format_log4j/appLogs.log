@@ -1,0 +1,12 @@
+INFO                              com.app.main.HelloLog4j                                Hello from INFO                                        05-Jan-2021 Tuesday EST 20:52:10                  
+WARN                              com.app.main.HelloLog4j                                Hello from WARN                                        05-Jan-2021 Tuesday EST 20:52:10                  
+ERROR                             com.app.main.HelloLog4j                                Hello from ERROR                                       05-Jan-2021 Tuesday EST 20:52:10                  
+FATAL                             com.app.main.HelloLog4j                                Hello from FATAL                                       05-Jan-2021 Tuesday EST 20:52:10                  
+INFO                              com.app.service.HelloLogService                        hello from log service helloLog()                      05-Jan-2021 Tuesday EST 20:52:10                  
+INFO                              com.app.service.HelloLogService                        bye bye from log service helloLog()                    05-Jan-2021 Tuesday EST 20:52:10                  
+05-Jan-2021 Tuesday EST 20:53:12    Hello from INFO                                      com.app.main.HelloLog4j                             INFO                                              
+05-Jan-2021 Tuesday EST 20:53:12    Hello from WARN                                      com.app.main.HelloLog4j                             WARN                                              
+05-Jan-2021 Tuesday EST 20:53:12    Hello from ERROR                                     com.app.main.HelloLog4j                             ERROR                                             
+05-Jan-2021 Tuesday EST 20:53:12    Hello from FATAL                                     com.app.main.HelloLog4j                             FATAL                                             
+05-Jan-2021 Tuesday EST 20:53:12    hello from log service helloLog()                    com.app.service.HelloLogService                     INFO                                              
+05-Jan-2021 Tuesday EST 20:53:12    bye bye from log service helloLog()                  com.app.service.HelloLogService                     INFO                                              
